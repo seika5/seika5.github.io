@@ -18,7 +18,7 @@
           </v-col>
           <v-col cols="5">
             <div style="position: relative;z-index: 9999;" class="mt-16">
-              <v-img :src="require('../assets/logo.png')" contain max-height="250"></v-img>
+              <v-img src="logo.png" contain max-height="250"></v-img>
             </div>
           </v-col>
         </v-row>
